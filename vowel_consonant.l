@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 int consonant_count = 0;
-int vowel_count = 0;
+int vowe l_count = 0;
 
 int is_vowel(char c) {
     switch(c) {
