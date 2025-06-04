@@ -21,4 +21,5 @@ Sample Output
 Here is a screenshot of the MINI language scanner in action:
 
 ```markdown
-![mini language](https://github.com/habibanesro/compiler-assignment.git/blpb/main/resultScreenshots/mini_language_scanner.png?raw=true)
+![mini language](https:/![mini_language_scanner](https://github.com/user-attachments/assets/5b83f793-5b57-4af0-a2d2-8ff791b7b3af)
+/github.com/habibanesro/compiler-assignment.git/blpb/main/resultScreenshots/mini_language_scanner.png?raw=true)
