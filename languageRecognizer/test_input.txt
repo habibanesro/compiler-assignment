@@ -1,0 +1,4 @@
+def func(a, b):
+    for i in a :
+        if a =b:
+            print ("They are equal")
